@@ -1,6 +1,10 @@
-# Project Name
+# CURRENCY CONVERTER
 
-Currency Converter
+A currency converter is a device that facilitates the exchange of one currency for another. For instance, you would need to utilise a currency converter to change your US dollars into Euros if you were travelling to Europe from the United States. This project is a prerequisite to obtaining my ALX SWE (front-end) specialization program certificate.
+## Languages
+index.html – For adding structure to the project
+styles.css: For adding styling to the project
+script.js – For adding drag and drop or browse features
 
 ## Table of Contents
 
